@@ -1,4 +1,4 @@
-# FastAPI Trip API
+# FastAPI Travel API
 
 A high-performance FastAPI microservice designed for integrating with a shared Laravel database for package management.
 
